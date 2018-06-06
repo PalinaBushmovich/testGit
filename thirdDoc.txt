@@ -1,4 +1,7 @@
 develop #1 commit!
 
+test
+conflict
+test
 
 develop #2 commit
