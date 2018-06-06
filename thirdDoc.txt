@@ -1,7 +1,8 @@
 develop #1 commit!
 
 test
-conflict
+develop
 test
-
 develop #2 commit
+
+develop 5 commit
