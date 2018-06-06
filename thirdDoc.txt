@@ -6,4 +6,8 @@ test
 develop #2 commit
 
 develop 5 commit
+<<<<<<< HEAD
 7 commit to develop
+=======
+hello world
+>>>>>>> 79de32f... #8 commit to develop
